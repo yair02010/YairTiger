@@ -32,7 +32,7 @@ The website is divided into several sections:
 
 ## Technologies Used
 - **HTML5**: For structuring the content.
-- **CSS3**: For styling the website.
+- **CSS5**: For styling the website.
 - **Bootstrap / SASS**: For advanced styling (if used).
 - **Git**: For version control and project submission.
 
